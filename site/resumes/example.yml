@@ -9,8 +9,8 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: stephon
+    last_name: griffin
     
     # Define yourself in 4-5 words
     motto: I like saving the world
@@ -33,10 +33,10 @@ basic_info:
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
+    email: stephongriffin20@gmail.com #optional
+    phone: 516 754 3452 #optional
     website: asd.com #optional
-    linkedin: alandoe #optional
+    linkedin: linkedin.com/in/stephon-griffin-599166a9 #optional
     
     #
     # ******** IMPORTANT *******
@@ -51,27 +51,27 @@ basic_info:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: tagalog
+        level: imediate 
 
       - idiom: Spanish
         level: Professional
 
     # Interests or hobies
     interests:
-      - item: Climbing
+      - item: coding
 
-      - item: Snowboarding
+      - item: gaming
 
-      - item: Cooking
+      - item: traveling
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: full stack web developer
+      university: 4geeksacademy
       # optional
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      time: 2023 - 2024
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,11 +82,11 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: BSc web development
+      university: 4geeksacademy
       # optional
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+      time: 2023 - 2024
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
